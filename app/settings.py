@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kxrbu13_0o(7-d3i-#rs!h=!qqxm-e#b6w$_2uk(z0!#2#t)7d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ththth6.domcloud.io']
 
 
 # Application definition
